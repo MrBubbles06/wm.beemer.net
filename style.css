@@ -1,0 +1,23 @@
+body {
+  padding: 25px;
+  background-color: #121212;
+  color: white;
+  font-family: sans-serif;
+}
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+a:link {
+  color: black;
+  background: white;
+}
+a:hover {
+  background: #7abfeb;
+}
+h3 {
+  font-family: monospace;
+  font-size: 1.6em;
+  color: rgb(0, 255, 50);
+}
